@@ -48,7 +48,9 @@ foreach ($rows["result"]["rows"] as $row) {
 
 ## About
 **Fauzi Faruq Nabbani** - 140810160007 - [Fauzifaruqn](https://github.com/Fauzifaruqn)
+
 **Muhammad Raihan Akbar** - 140810160013 - [RaihanAk](https://github.com/RaihanAk)
+
 **Muhammad Rifqy Aulia Akbar** - 140810160055 - [Rifqy7x](https://github.com/Rifqy7x)
 
 Final term project Semantic Web.
